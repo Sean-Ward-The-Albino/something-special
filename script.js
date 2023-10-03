@@ -1,6 +1,6 @@
 function typeSlogan() {
     const sloganElement = document.getElementById('message-content');
-    const sloganText = "You being the only person that I can trust is one of my greatest weaknesses but, I'm glad it's you because, you're the only person I want to trust. I love that you listen to me ramble about computers or life and I love listening to you ramble about what you want and what you're doing.";
+    const sloganText = "hYou're a shinging beacon of joy in my life and I want to just remind you that you have the ability to pursue anything you desire and that I wholheartedly believe in you. You have such a profound and bold personality that I think the world generally lacks and needs now more than ever. This distinct feature about you will help you glow in the future";
     let charIndex = 0;
 
     function typeNextCharacter() {
