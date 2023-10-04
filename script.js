@@ -1,6 +1,6 @@
 function typeSlogan() {
     const sloganElement = document.getElementById('message-content');
-    const sloganText = "You're a shinging beacon of joy in my life and I want to just remind you that you have the ability to pursue anything you desire and that I wholheartedly believe in you. You have such a profound and bold personality that I think the world generally lacks and needs now more than ever. This distinct feature about you will help you glow in the future";
+    const sloganText = "We create our own paths and sometimes paths cross, somehow you have created a path to me and I can't imagine my life without you in it. You're laugh and smile raidiate like the sunlight coming upon the earth.";
     let charIndex = 0;
 
     function typeNextCharacter() {
