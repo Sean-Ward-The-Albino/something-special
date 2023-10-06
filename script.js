@@ -1,6 +1,7 @@
 function typeSlogan() {
     const sloganElement = document.getElementById('message-content');
-    const sloganText = "We create our own paths and sometimes paths cross, somehow you have created a path to me and I can't imagine my life without you in it. You're laugh and smile raidiate like the sunlight coming upon the earth.";
+    const sloganText = "prefection is a paradox concept. The ideas of something that's perfect is boring because that's it. there is no room for growth, imagination, development, or anything else. it's a paradox because the lack of prefection is perfect. i am not perfect, you are not perfect and yet that's perfect. Everyone can learn to love their flaws as their flaws make them unique and allow growth.";
+
     let charIndex = 0;
 
     function typeNextCharacter() {
