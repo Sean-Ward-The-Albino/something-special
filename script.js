@@ -1,6 +1,6 @@
 function typeSlogan() {
     const sloganElement = document.getElementById('message-content');
-    const sloganText = "prefection is a paradox concept. The ideas of something that's perfect is boring because that's it. there is no room for growth, imagination, development, or anything else. it's a paradox because the lack of prefection is perfect. i am not perfect, you are not perfect and yet that's perfect. Everyone can learn to love their flaws as their flaws make them unique and allow growth.";
+    const sloganText = "When we want to observe something under a mincroscope we use electrons that are accelerated to 70% of the speed of light. Through that process we about to see things the size of 1 nanometer (10 atoms thick). When peering into someone elses mind it's not as logocally straightforward and trust me the process is a lot more difficult and involved than what I said. Despite the emotional complexites I hope that one day I can be able to to understand your mind like aan electron can create an image of a transister. You're so complex and interesting and I want to understand you to a deep of a level as I can.";
 
     let charIndex = 0;
 
