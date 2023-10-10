@@ -1,6 +1,6 @@
 function typeSlogan() {
     const sloganElement = document.getElementById('message-content');
-    const sloganText = "When we want to observe something under a mincroscope we use electrons that are accelerated to 70% of the speed of light. Through that process we about to see things the size of 1 nanometer (10 atoms thick). When peering into someone elses mind it's not as logocally straightforward and trust me the process is a lot more difficult and involved than what I said. Despite the emotional complexites I hope that one day I can be able to to understand your mind like aan electron can create an image of a transister. You're so complex and interesting and I want to understand you to a deep of a level as I can.";
+    const sloganText = "When considering how we can have the ability to shift the dynamic of our lifestyle its sometimes overwhleming to decide which one suits us the best. I think it's about the people you live your life with. If you're around creative people you will do creative things. Picking whom to surrouned yourself with is difficult sometimes but it's just somethings those gems of people in which you don't have to think about if they will be a good fitin your life because you know they will be. They make you feel calm or energetic and you can feel confort in not having to try to be someone or something you're not.";
 
     let charIndex = 0;
 
